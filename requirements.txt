@@ -1,0 +1,37 @@
+# Backend / API
+fastapi
+pydantic
+uvicorn
+python-multipart
+
+# OCR & Document Parsing
+PyMuPDF
+pytesseract
+pdfplumber
+
+# NLP / ML
+transformers
+spacy
+sentence-transformers
+scikit-learn
+xgboost
+
+# Vector Search
+faiss-cpu
+
+# Storage
+psycopg2-binary
+
+# Async Processing
+celery
+redis
+
+# Frontend
+streamlit
+
+# Testing
+pytest
+httpx
+
+# Utilities
+python-dotenv
